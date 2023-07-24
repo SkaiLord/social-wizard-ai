@@ -1,10 +1,10 @@
-###Social Wizard AI
+# Social Wizard AI
 
-##Introduction
+## Introduction
 
 Welcome to the AI SaaS Content Generation Site! Our platform is a cutting-edge solution for content creators, marketers, and businesses seeking high-quality and engaging content. Powered by advanced artificial intelligence (AI) algorithms, our platform offers an array of content generation tools that will save you time and effort while delivering top-notch content.
 
-##Key Features
+## Key Features
 AI-Powered Content Creation: Leverage the power of AI to automatically generate high-quality articles, blog posts, social media captions, and more.
 
 Customizable Content: Tailor the generated content to match your brand's tone, style, and specific requirements.
@@ -15,7 +15,7 @@ Multilingual Support: Generate content in multiple languages to reach a broader 
 
 Real-Time Editing and Collaboration: Collaborate with team members and editors in real-time to fine-tune and polish the generated content.
 
-##How It Works
+## How It Works
 Sign Up: Create an account on our website to gain access to the content generation tools.
 
 Select Content Type: Choose the type of content you want to generate, such as articles, blog posts, or social media captions.
